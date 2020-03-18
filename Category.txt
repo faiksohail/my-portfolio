@@ -1,0 +1,14 @@
+category-1)Suits
+ 2)Kaftan
+ 3)Stole
+ 4)Pheran
+ 5)Jackets
+ 6)Saree
+ 7)Pancho
+ 8)Cap Shawl
+ 9)Kani Stoles
+ 10)Pashmina
+
+
+
+ 
